@@ -1,5 +1,5 @@
 build:
   id: 246
   version: 10.2.3
-  name: "production-Build"
-  type: "production-Build"
+  name: "production-GIT-Build"
+  type: "production-GIT-Build"
