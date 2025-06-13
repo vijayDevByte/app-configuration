@@ -1,5 +1,5 @@
 build:
   id: 245
   version: 10.2.3
-  name: "dev-Build"
-  type: "dev-Build"
+  name: "dev-GIT-Build"
+  type: "dev-GIT-Build"
