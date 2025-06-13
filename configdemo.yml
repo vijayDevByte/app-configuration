@@ -1,5 +1,5 @@
 build:
   id: 247
   version: 10.2.3
-  name: "default-Build"
-  type: "default-Build"
+  name: "default-GIT-Build"
+  type: "default--GIT-Build"
