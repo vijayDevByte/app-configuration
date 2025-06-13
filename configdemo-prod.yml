@@ -1,5 +1,5 @@
 build:
   id: 101
   version: 1.2.3
-  name: "default-Build"
-  type: "default-Build"
+  name: "production-Build"
+  type: "production-Build"
